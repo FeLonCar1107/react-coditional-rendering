@@ -1,0 +1,32 @@
+.student-grade-container {
+    width: 270px;
+    height: 30px;
+    margin: 0 auto;
+    border: 2px solid turquoise;
+    text-align: center ;
+    margin-top: 10px;
+}
+
+.student-grade2-container {
+    width: 270px;
+    height: 30px;
+    margin-top: 315px;
+    margin-left: -2px;
+    border: 2px solid turquoise;
+    text-align: center;
+    
+}
+
+.student-grade3-container {
+    width: 270px;
+    height: 30px;
+    margin-top: 285px;
+    margin-left: -2px;
+    border: 2px solid turquoise;
+    text-align: center;
+    
+}
+.student-grade-input {
+    padding: 10px;
+    margin-bottom: 10px;
+}
